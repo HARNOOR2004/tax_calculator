@@ -17,3 +17,6 @@ Tax calulator with the following requirements-
     - <40
     - ≥ 40 & < 60
     - ≥ 60
+![image](https://github.com/HARNOOR2004/tax_calculator/assets/124369192/f530c879-130a-4ed0-b611-03f081d2442c)
+![image](https://github.com/HARNOOR2004/tax_calculator/assets/124369192/2005092d-0303-4390-8290-d6932950ffa5)
+
